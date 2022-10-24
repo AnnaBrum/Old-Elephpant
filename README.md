@@ -2,7 +2,8 @@ INSERT MANDATORY GIF
 
 # Project Title
 
-Text about the project and why it exists. This would also be a great place to link the project on One.com.
+Text about the project and why it exists. 
+https://annabrumark.se/elephpant/index.php
 
 # Installation
 
